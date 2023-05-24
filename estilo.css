@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Rajdhani&family=Tajawal:wght@300&display=swap');
+*{
+
+
+ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Rajdhani', sans-serif;
+    font-family: 'Tajawal', sans-serif;
+
+}
+   
+    
+
+body{
+    
+    background-color:#00FFCA;
+}
+.container{
+    font-size: 16px;
+    background-color: white;
+    width: 90vh;
+    max-width: 34em;
+    position:absolute;
+    transform: translate(75%,90%);
+    padding: 3em;
+    border-radius: 20px;
+    margin-top: -5.5%;
+    box-shadow: 0 1.2em 2.4em rgb(82, 74, 74);
+    
+}
